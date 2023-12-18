@@ -3,7 +3,7 @@ The following Machine Learning algorithms are used in these projects.
 ### **Multiple Linear Regression**
 ### **Logistic Regression**
 ### **K-Nearest Neighbors**
-#### **Decision Tree Classifier**
+### **Decision Tree Classifier**
 #### **Random Forest Classifier**
 #### **Extra Trees Classifier**
 #### **Support Vector Machine(SVM)**
