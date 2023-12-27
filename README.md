@@ -1,5 +1,5 @@
 The following Machine Learning algorithms are used in these projects.
-### *Simple Linear Regression*
+#### *Simple Linear Regression*
 ### *Multiple Linear Regression*
 ### *Logistic Regression*
 ### *K-Nearest Neighbors*
