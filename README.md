@@ -8,4 +8,4 @@ The following Machine Learning algorithms are used in these projects.
 ### *Extra Trees Classifier*
 ### *Support Vector Machine(SVM)*
 ### *Guassian Naive Bayes*
-## *XGB Classifier*
+### *XGB Classifier*
